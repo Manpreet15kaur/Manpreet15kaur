@@ -2,8 +2,11 @@
 <h3 align="center">A passionate FullStack developer </h3>
 
 🧑‍🎓 I’m currently CSE Student at **Chitkara University**  
-## 🌐 Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreet-kaur-a020a62b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manpreetkaur81008@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_manpreet27_/)
+📬 [manpreetkaur81008@gmail.com](mailto:manpreetkaur81008@gmail.com)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreet-kaur-a020a62b2)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_manpreet27_/)
 
 
 # 💻 Tech Stack:
